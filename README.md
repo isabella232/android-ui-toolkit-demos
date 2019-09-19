@@ -1,6 +1,3 @@
-This project includes sample applications that demonstrate different features of the Android Framework and Support Library.
+This repo has been migrated to [github.com/android/views-widgets][1]. Please check that repo for future updates. Thank you!
 
-It is actively managed by the Android Framework Team.
-
-### Disclaimers
-**This is not an official Google product.**
+[1]: https://github.com/android/views-widgets
